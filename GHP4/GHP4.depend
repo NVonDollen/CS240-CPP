@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1459057354 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1459057448 c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\stack.h
+	<iostream>
+
+1459057549 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\main.cpp
+	"Stack.h"
+	<iostream>
+	"Stack.h"
+
+1477953078 source:c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\main.cpp
+	"Stack.h"
+	<iostream>
+	"Stack.h"
+
+1459057448 c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\stack.h
+	<iostream>
+
+1459057354 source:c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp4\stack.cpp
+	<iostream>
+	"Stack.h"
+

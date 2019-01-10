@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460437901 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\fileread\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

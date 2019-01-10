@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1454342207 source:c:\users\nick\desktop\programming\factorial\main.cpp
+	<iostream>
+	"fact.h"
+
+1454341859 c:\users\nick\desktop\programming\factorial\fact.h
+
+1454342139 source:c:\users\nick\desktop\programming\factorial\factfunct.cpp
+	<cassert>
+
+1454342139 source:c:\users\nick\desktop\homework\cs 240 - programs & ghps\factorial\factfunct.cpp
+	<cassert>
+
+1454342139 source:c:\users\nick\desktop\homework & programs\cs 240 - programs & ghps\factorial\factfunct.cpp
+	<cassert>
+
+1454342245 source:c:\users\nick\desktop\homework & programs\cs 240 - programs & ghps\factorial\main.cpp
+	<iostream>
+	"fact.h"
+
+1454341859 c:\users\nick\desktop\homework & programs\cs 240 - programs & ghps\factorial\fact.h
+

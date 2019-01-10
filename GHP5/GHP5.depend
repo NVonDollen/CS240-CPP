@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1459793781 source:c:\users\nick\desktop\nyhoff headers & cpp's\queue.cpp
+	<iostream>
+	<cstdlib>
+	"Queue.h"
+
+1459793722 c:\users\nick\desktop\nyhoff headers & cpp's\queue.h
+	<iostream>
+
+1459793688 source:c:\users\nick\desktop\nyhoff headers & cpp's\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1459793632 c:\users\nick\desktop\nyhoff headers & cpp's\stack.h
+	<iostream>
+
+1459803229 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\main.cpp
+	<iostream>
+	<string>
+	"Stack.h"
+	"Queue.h"
+
+1459797232 c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\stack.h
+	<iostream>
+
+1459797322 c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\queue.h
+	<iostream>
+
+1542501654 source:c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\main.cpp
+	<iostream>
+	<string>
+	"Stack.h"
+	"Queue.h"
+
+1459793632 c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\stack.h
+	<iostream>
+
+1459793722 c:\users\nick\desktop\freshman year homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp5\queue.h
+	<iostream>
+

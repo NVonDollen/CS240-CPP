@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457043273 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp3\ghp3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cassert>
+	<cstdio>
+

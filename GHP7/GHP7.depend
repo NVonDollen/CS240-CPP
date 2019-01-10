@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461801015 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp7\main.cpp
+	<iostream>
+	"hash.h"
+
+1461799995 c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp7\hash.h
+	<iostream>
+	<string.h>
+
+1461880062 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp7\hash.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+	"hash.h"
+

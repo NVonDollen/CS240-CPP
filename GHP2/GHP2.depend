@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454995121 source:c:\users\nick\desktop\homework\cs 240 - programs & ghps\ghp2\main.cpp
+	<iostream>
+
+1455249253 source:c:\users\nick\desktop\homework & programs\cs 240 - programs & ghps\ghp2\main.cpp
+	<iostream>
+	"printarray.h"
+
+1455248627 c:\users\nick\desktop\homework & programs\cs 240 - programs & ghps\ghp2\printarray.h
+
+1455741448 source:c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp2\main.cpp
+	<iostream>
+
+1455590891 c:\users\nick\desktop\homework & programs\freshman semester 2\cs 240 - programs & ghps\ghp2\printarraya.h
+
